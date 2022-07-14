@@ -24,7 +24,7 @@ body {
 }
 
 .section-subtitle {
-  color: darkgrey;
+  color: rgb(34, 32, 32);
   font-family: "Inconsolata", monospace;
   font-size: 14px;
   font-style: italic;
@@ -60,7 +60,7 @@ body {
 }
 
 .navigation-logo {
-  color: yellow;
+  color: rgb(235, 235, 34);
   font-style: italic;
   font-size: 20px;
   font-family: "Berkshire Swash", cursive;
@@ -122,7 +122,7 @@ body {
   font-size: 15px;
   text-align: center;
   text-decoration: none;
-  background-color: yellow;
+  background-color: rgba(231, 171, 60, 0.986);
   cursor: pointer;
   border-width: 2px;
   border-style: solid;
